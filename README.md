@@ -18,8 +18,8 @@
     <a href="https://git.io/typing-svg"><div align="center" identificación="centro"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=25&pause=1000000&color=6a19cc&center=true&vCenter=true&width=435&lines=<%2FComing+soon...>" alt="Typing SVG" /></div></a>
 </div>
 <p align="center">
-  <a href="https://skillicons.dev%22%3E/
-    <img src="https://skillicons.dev/icons?i=powershell,js,php,wordpress,c,go" />
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,mysql,md,docker,bots,discord,vscode,python,github,git" />
   </a>
 </p><br>
 
