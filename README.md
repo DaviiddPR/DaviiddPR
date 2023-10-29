@@ -1,6 +1,6 @@
 <div identificación="encabezado" align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=539FF7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+iHarzz+GitHub" alt="Typing SVG" /></a>
-    <h3 align="center">Cibersecurity student && Developer</h3>
+    <h3 align="center">Cibersecurity Enthusiast & Ethical Hacker</h3>
 </div >
 
 <br>
