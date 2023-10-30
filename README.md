@@ -19,7 +19,7 @@
 </div>
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,cs,cpp,git,java,js,perl,php" />
   </a>
 </p><br>
 
