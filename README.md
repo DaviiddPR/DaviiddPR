@@ -19,7 +19,8 @@
     <h3 align="center">🛡️ Cybersecurity
 🔴 Red Team
 👨‍💻 Ethical Hacker
-🔎 Security Analyst</h3>
+🇪🇸 CTF Player
+</h3>
 </div>
 <p align="center">
 </p><br>
