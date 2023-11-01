@@ -19,7 +19,7 @@
     <h3 align="center">🛡️ Cybersecurity
 🔴 Red Team
 👨‍💻 Ethical Hacker
-🇪🇸 CTF Player
+🔴🟡​ CTF Player
 </h3>
 </div>
 <p align="center">
