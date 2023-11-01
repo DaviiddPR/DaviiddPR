@@ -18,9 +18,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=10B8F7&center=true&vCenter=true&random=false&width=435&lines=%3C%2FCooming+Soon%3E" alt="Typing SVG" /></a>
 </div>
 <p align="center">
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,cs,cpp,git,java,js,perl,php" />
-  </a>
 </p><br>
 
 <p align="center">
